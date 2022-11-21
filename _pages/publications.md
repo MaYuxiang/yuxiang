@@ -25,8 +25,6 @@ redirect_from:
 
 *  Z. Yao, J. Ge, Y. Wu, X. Lin, R. He, and **Y. Ma**, “Encrypted traffic classification based on Gaussian mixture models and Hidden Markov Models,” *Journal of Network and Computer Applications*, vol. 166, pp. 102711, 2020. (SCI，IF: 5.273) [Paper](https://doi.org/10.1016/j.jnca.2020.102711)
 
-*  J. Qu, F. Liu, **Y. Ma**, and J. Fan, “Temporal-Spatial Collaborative Prediction for LTE-R Communication Quality Based on Deep Learning,” *IEEE Access*, vol. 7, pp. 94817–94832, 2020. (SCI，IF: 4.098) [Paper](https://ieeexplore.ieee.org/document/9095336)
-
 *  J. Qu, F. Liu, **Y. Ma**, and J. Fan, “A Neural-Network-Based Method for RUL Prediction and SOH Monitoring of Lithium-Ion Battery,” *IEEE Access*, vol. 7, pp. 87178–87191, 2019. (SCI，IF: 4.098) [Paper](https://ieeexplore.ieee.org/document/8747502)
 
 *  **Y. Ma**, Y. Wu, J. Ge, and J. Li, “An Architecture for Accountable Anonymous Access in the Internet-of-Things Network,” *IEEE Access*, vol. 6, pp. 14451–14461, 2018. (SCI，IF: 4.098) [Paper](https://ieeexplore.ieee.org/document/8292863/)
