@@ -15,6 +15,6 @@ Henan University is one of the oldest universities in China. The last two imperi
 HENU Website:
 
  * [Chinese](http://www.henu.edu.cn/)
- * [English](http://en.henu.edu.cn/)
+ * [English](https://iao.henu.edu.cn/yw/Home.htm)
 
 ---
