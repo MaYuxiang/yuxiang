@@ -19,10 +19,14 @@ In addition, I also love photography, reading, collecting stamps and collecting 
 
 Research Interests
 ======
-
-* Future Internet Architecture and Technologies
-
+  
 * Network Security and Privacy
+  
+* Trustworthy Machine Learning
+
+* Mobile Computing
+
+* Blockchain
 
 
 Contact
