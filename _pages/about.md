@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an associate professor in the School of Computer and Information Engineering at Henan University (HENU).
+I am currently a professor in the School of Computer and Information Engineering at Henan University (HENU).
 
-I love traveling, and I have traveled to 28 provinces (more than 150 tourist cities) in China. 
+I love traveling, and I have traveled to 29 provinces (more than 150 tourist cities) in China. 
 
 I love running and swimming. I have participated in the marathon twice and completed the full marathon (42.195 kilometres) in four hours and fifteen minutes.
 
