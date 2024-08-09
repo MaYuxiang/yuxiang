@@ -9,6 +9,12 @@ redirect_from:
 
 *  **Y. Ma**, Y. Wu, and J. Ge, Accountability and Privacy in Network Security, Springer, ISBN: 978-981-15-6574-8, 2020. (Monograph)
 
+*  **Y. Ma**, Z. Li, H. Xue, and J. Chang, "A balanced supervised contrastive learning-based method for encrypted network traffic classification,". *Computers & Security*, vol. 145, p. 104023, 2024. (SCI，IF: 4.8) [Paper](https://doi.org/10.1016/j.cose.2024.104023)
+
+* K. Zhang, **Y. Ma**, Y. Wu, T. Chen, and H. Ma, "Adaptive Splitting Algorithm for Neural Network Modelling in AMP," in *IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)*.  IEEE, 2023, pp. 199-206. (EI, CCF)
+
+* L. Song, Z. Zhao, **Y. Ma**, Y. Liu, and J. Li, "Global-Aware Attention Network for Multi-modal Sarcasm Detection," in *IEEE International Conference on Systems, Man, and Cybernetics (SMC)*. IEEE, 2023, pp.2409-2414. (EI, CCF)
+
 * J. Qu, F. Liu, and **Y. Ma**, "A dual encoder DAE neural network for imbalanced binary classification based on NSGA-III and GAN,". *Pattern Analysis and Applications*, vol. 25, p. 17–34, 2022.  (SCI，IF: 2.58) [Paper](https://doi.org/10.1007/s10044-021-01035-2)
  
 * L. Zhang, X. Chen, and **Y. Ma**, "A Handover Scheme Based on Mobility Prediction for Autonomous Moving Platforms in 5G Networks," in *International Wireless Communications and Mobile Computing (IWCMC)*.  IEEE, 2022, pp. 104-109. (EI)
@@ -27,21 +33,11 @@ redirect_from:
 
 *  Z. Yao, J. Ge, Y. Wu, X. Lin, R. He, and **Y. Ma**, “Encrypted traffic classification based on Gaussian mixture models and Hidden Markov Models,” *Journal of Network and Computer Applications*, vol. 166, pp. 102711, 2020. (SCI，IF: 5.273) [Paper](https://doi.org/10.1016/j.jnca.2020.102711)
 
-*  J. Qu, F. Liu, **Y. Ma**, and J. Fan, “A Neural-Network-Based Method for RUL Prediction and SOH Monitoring of Lithium-Ion Battery,” *IEEE Access*, vol. 7, pp. 87178–87191, 2019. (SCI，IF: 4.098) [Paper](https://ieeexplore.ieee.org/document/8747502)
-
-*  **Y. Ma**, Y. Wu, J. Ge, and J. Li, “An Architecture for Accountable Anonymous Access in the Internet-of-Things Network,” *IEEE Access*, vol. 6, pp. 14451–14461, 2018. (SCI，IF: 4.098) [Paper](https://ieeexplore.ieee.org/document/8292863/)
-
 *  **Y. Ma**, Y. Wu, J. Ge, and J. Li, “A Flow-Level Architecture for Balancing Accountability and Privacy,” in *IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)*. IEEE, 2018, pp. 984–989. (EI, CCF)
 
 *  **Y. Ma**, Y. Wu, J. Li, and J. Ge, “A New Architecture for Distributed Computing in Named Data Networking,” in *IEEE International Conference on High Performance Computing and Communications (HPCC)*. IEEE, 2018, pp. 474–479. (EI, CCF)
 
 *  **Y. Ma**, Y. Wu, J. Ge, and J. Li, “A New Architecture for Anonymous Use of Services in Distributed Computing Networks,” in *IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)*.  IEEE, 2017, pp. 368–374. (EI, CCF)
-
-
-
-*  董谦, 李俊, **马宇翔**, 韩淑君. 软件定义网络中基于分段路由的流量调度方法[J]. 通信学报, 2018, 39(11): 23-35. (EI) [Paper](http://www.infocomm-journal.com/txxb/CN/article/downloadArticleFile.do?attachType=PDF&id=167868)
-
-*  董谦, 李俊, **马宇翔**. 基于集中控制的命名数据网络流量调度方法[J]. 通信学报, 2018, 39(7): 68-80. (EI) [Paper](http://www.infocomm-journal.com/txxb/CN/article/downloadArticleFile.do?attachType=PDF&id=167505)
 
 
 
